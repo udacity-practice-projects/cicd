@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/stephenmooney/Documents/GitHub/cicd",
+            "binaryPath": "/Users/stephenmooney/Documents/GitHub/cicd/Makefile",
+            "binaryArgs": []
+        }
+    ]
+}
