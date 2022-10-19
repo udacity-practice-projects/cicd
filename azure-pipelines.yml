@@ -14,7 +14,7 @@ variables:
   webAppName: ''
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'NewPool'
 
   # Environment name
   environmentName: 'main'
