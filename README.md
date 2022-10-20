@@ -10,25 +10,29 @@
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* ![Architecture Diagram](https://tva1.sinaimg.cn/large/008vxvgGgy1h7bua49yoxj30oi03dglo.jpg)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
 
-* Project cloned into Azure Cloud Shell
+* Project cloned into Azure Cloud Shell![cloud shell](https://tva1.sinaimg.cn/large/008vxvgGgy1h7buds5y0qj30x809kt9x.jpg)![ssh]()
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
+* Passing tests that are displayed after running the `make all` command from the 
+
+  Makefile![make all](Screenshots/make all.png)![make all](Screenshots/make all.png)`
 
 * Output of a test run
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+![github actions](https://tva1.sinaimg.cn/large/008vxvgGgy1h7buaw98o2j31y30rn40p.jpg)
+
+* Successful deploy of the project in Azure Pipelines.  
+
+![azure devops](https://tva1.sinaimg.cn/large/008vxvgGgy1h7bub6ypkyj30re0n9jsw.jpg)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
-
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+  The output should look similar to this:
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
@@ -42,10 +46,15 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+Refactor code into clean architecture
+
+build, test and deploy from one provider not two.
+
+Have develop, test and main branches and run these in deployment slots
+
+Add backups to webapp in case of failure
 
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
-
 
