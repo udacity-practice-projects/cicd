@@ -1,6 +1,10 @@
 # Overview
 
-This is a machine learning project using python which is kept in github and deployed using azure devops for some reason.
+This is a machine learning project using python which is kept in github and deployed using azure devops for some reason. Here is the running url of the app service.
+
+
+
+https://mludacity.azurewebsites.net/
 
 ## Project Plan
 
