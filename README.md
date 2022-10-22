@@ -1,13 +1,17 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This is a machine learning project using python which is kept in github and deployed using azure devops for some reason.
 
 ## Project Plan
+
+https://docs.google.com/spreadsheets/d/1cekW8WX1FLk4G2xLEHb9KX8PcDbzl-VIJy5X0jaj8w0/edit?usp=sharing
+
 ![original](https://tva1.sinaimg.cn/large/008vxvgGgy1h7bv27k86zj31sv0i0441.jpg)
 
 
 
 * ![finished](https://tva1.sinaimg.cn/large/008vxvgGgy1h7bv2ng1kdj31sv0i0te9.jpg)A link to a Trello board for the project
+* https://trello.com/b/JiFQcatq/ml
 
 ![trello](https://tva1.sinaimg.cn/large/008vxvgGgy1h7buwozbjgj30x809kaar.jpg)
 
