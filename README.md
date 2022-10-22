@@ -44,6 +44,9 @@ https://docs.google.com/spreadsheets/d/1cekW8WX1FLk4G2xLEHb9KX8PcDbzl-VIJy5X0jaj
 ![azure devops](https://tva1.sinaimg.cn/large/008vxvgGgy1h7bub6ypkyj30re0n9jsw.jpg)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+
+![app service running](https://tva1.sinaimg.cn/large/008vxvgGgy1h7e4gb2fnoj31hn0llq86.jpg)
+
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
   The output should look similar to this:
 
