@@ -56,7 +56,9 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 
-* Output of streamed log files from deployed application
+![prediction](https://tva1.sinaimg.cn/large/008vxvgGgy1h7fnden68hj30cx023q2x.jpg)
+
+* Output of streamed log files from deployed application![log stream](https://tva1.sinaimg.cn/large/008vxvgGgy1h7fnewarw5j30ve02c3z3.jpg)
 
 > 
 
